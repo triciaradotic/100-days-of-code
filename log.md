@@ -7,7 +7,7 @@
 
 **Thoughts:** I'm really excited to start the #100 Days of Code Challenge; using GitHub myself after all these years of my devs using it, amazing feeling!
 
-**Link to work:**
+**Link to work:** https://github.com/triciaradotic/Hello-World.git
 
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
